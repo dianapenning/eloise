@@ -1,0 +1,45 @@
+body {
+    background-color: cyan;
+}
+
+h1 {
+    color: green;
+	font-family: Arial;
+    font-size: 20px;
+	font-weight: bold;
+}
+
+h2 {
+    color: red;
+	font-family: "Comic Sans MS";
+    font-size: 16px;
+}
+
+h3 {
+    color: orange;
+	font-family: "Comic Sans MS";
+    font-size: 14px;
+	font-style: italic
+}
+
+p {
+    color: brown;
+	font-family: "Comic Sans MS";
+}
+
+.topnav {
+    background-color: yellow;
+	overflow: hidden;
+	position: relative;
+    }
+	
+.topnav a {    
+	float: left;
+	color: red;
+    text-align: center;
+    padding: 12px 8px;
+    font-size: 16px;
+	text-decoration: none;
+	font-family: Arial;
+}
+
